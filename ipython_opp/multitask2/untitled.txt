@@ -1,2 +1,0 @@
-for NewWavelet, train model with trainable lowpass kernel
-fine tune parameters

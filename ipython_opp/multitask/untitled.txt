@@ -1,8 +1,0 @@
-HRNN_Wmultitask_16_opp2: increase number of features map and lstm_n_hidden
-    
-RCNN_Wmultitask_16_opp2: increase number of features map and lstm_n_hidden
-
-RCNN_Wmultitask_16_opp3: decrease number of features map and lstm_n_hidden
-
-HRNN_NewWavelet_Wmultitask_16_opp_20K_2: same as RCNN_Wmultitask_16_opp2
-
