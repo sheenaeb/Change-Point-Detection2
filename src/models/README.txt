@@ -1,0 +1,1 @@
+New_wavelet2: all kernels of the wavelet layer is trainable here.
